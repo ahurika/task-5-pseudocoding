@@ -8,7 +8,7 @@
 
 - **Recording Date:** 15/10/2026
 - **Recording File / Link:** `c:\Users\USER\AppData\Local\Packages\Microsoft.ScreenSketch_8wekyb3d8bbwe\TempState\Recordings\20261015-2123-46.4700899.mp4`
-- **Duration:** T3 minute
+- **Duration:** 2 minute
 - **Notes Used On Screen:** `part-b/pseudocode/discount-code.md` 
 
 ---
